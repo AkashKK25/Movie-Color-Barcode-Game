@@ -1,0 +1,42 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #a6aec3;
+    background-color: #0e0e0e;
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.score {
+    display: inline-block;
+}
+
+#movie-image-container {
+    margin-top: 20px;
+}
+
+#movie-image {
+    height: 500px;
+    max-width: 96%;
+    margin: 0;
+}
+
+#options {
+    margin-top: 20px;
+}
+
+#game-screen, #game-over {
+    display: none;
+}
+
+#next-button {
+    margin-top: 20px;
+}
