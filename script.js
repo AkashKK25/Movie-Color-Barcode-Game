@@ -68,29 +68,29 @@ function loadImages(difficulty) {
         {file: "movie_color_barcode_777 Charlie.jpg", name: "777 Charlie"},
         {file: "movie_color_barcode_Ant-Man And The Wasp.jpg", name: "Ant-Man And The Wasp"},
         {file: "movie_color_barcode_Ant-Man.jpg", name: "Ant-Man"},
-        {file: "movie_color_barcode_Avengers Age of Ultron.jpg", name: "Avengers Age of Ultron"},
+        {file: "movie_color_barcode_Avengers Age of Ultron.jpg", name: "Avengers: Age of Ultron"},
         {file: "movie_color_barcode_Avengers Endgame IMAX.jpg", name: "Avengers Endgame IMAX"},
-        {file: "movie_color_barcode_Avengers Endgame.jpg", name: "Avengers Endgame"},
+        {file: "movie_color_barcode_Avengers Endgame.jpg", name: "Avengers: Endgame"},
         {file: "movie_color_barcode_Avengers Infinity War IMAX.jpg", name: "Avengers Infinity War IMAX"},
-        {file: "movie_color_barcode_Avengers Infinity War.jpg", name: "Avengers Infinity War"},
+        {file: "movie_color_barcode_Avengers Infinity War.jpg", name: "Avengers: Infinity War"},
         {file: "movie_color_barcode_Barry.jpg", name: "Barry"},
         {file: "movie_color_barcode_Batman Begins REMASTERED.jpg", name: "Batman Begins"},
         {file: "movie_color_barcode_Batman Begins.jpg", name: "Batman Begins"},
         {file: "movie_color_barcode_Batman Hush.jpg", name: "Batman Hush"},
-        {file: "movie_color_barcode_Batman The Dark Knight Returns Part 1.jpg", name: "Batman The Dark Knight Returns Part 1"},
-        {file: "movie_color_barcode_Batman The Dark Knight Returns Part 2.jpg", name: "Batman The Dark Knight Returns Part 2"},
-        {file: "movie_color_barcode_Batman The Killing Joke.jpg", name: "Batman The Killing Joke"},
-        {file: "movie_color_barcode_Batman The Long Halloween Part One.jpg", name: "Batman The Long Halloween Part One"},
-        {file: "movie_color_barcode_Batman The Long Halloween Part Two.jpg", name: "Batman The Long Halloween Part Two"},
-        {file: "movie_color_barcode_Batman Under the Red Hood.jpg", name: "Batman Under the Red Hood"},
-        {file: "movie_color_barcode_Batman v Superman Dawn of Justice EXTE.jpg", name: "Batman v Superman Dawn of Justice EXTENDED"},
+        {file: "movie_color_barcode_Batman The Dark Knight Returns Part 1.jpg", name: "Batman: The Dark Knight Returns Part 1"},
+        {file: "movie_color_barcode_Batman The Dark Knight Returns Part 2.jpg", name: "Batman: The Dark Knight Returns Part 2"},
+        {file: "movie_color_barcode_Batman The Killing Joke.jpg", name: "Batman: The Killing Joke"},
+        {file: "movie_color_barcode_Batman The Long Halloween Part One.jpg", name: "Batman: The Long Halloween Part One"},
+        {file: "movie_color_barcode_Batman The Long Halloween Part Two.jpg", name: "Batman: The Long Halloween Part Two"},
+        {file: "movie_color_barcode_Batman Under the Red Hood.jpg", name: "Batman: Under the Red Hood"},
+        {file: "movie_color_barcode_Batman v Superman Dawn of Justice EXTE.jpg", name: "Batman v Superman: Dawn of Justice EXTENDED"},
         {file: "movie_color_barcode_Big Hero 6.jpg", name: "Big Hero 6"},
         {file: "movie_color_barcode_Black Panther.jpg", name: "Black Panther"},
         {file: "movie_color_barcode_Braveheart.jpg", name: "Braveheart"},
         {file: "movie_color_barcode_Bullet Train.jpg", name: "Bullet Train"},
-        {file: "movie_color_barcode_Captain America Civil War.jpg", name: "Captain America Civil War"},
-        {file: "movie_color_barcode_Captain America The First Avenger.jpg", name: "Captain America The First Avenger"},
-        {file: "movie_color_barcode_Captain America The Winter Soldier.jpg", name: "Captain America The Winter Soldier"},
+        {file: "movie_color_barcode_Captain America Civil War.jpg", name: "Captain America: Civil War"},
+        {file: "movie_color_barcode_Captain America The First Avenger.jpg", name: "Captain America: The First Avenger"},
+        {file: "movie_color_barcode_Captain America The Winter Soldier.jpg", name: "Captain America: The Winter Soldier"},
         {file: "movie_color_barcode_Captain Marvel.jpg", name: "Captain Marvel"},
         {file: "movie_color_barcode_Casino Royale.jpg", name: "Casino Royale"},
         {file: "movie_color_barcode_Catch Me If You Can.jpg", name: "Catch Me If You Can"},
@@ -109,19 +109,18 @@ function loadImages(difficulty) {
         {file: "movie_color_barcode_Everything Everywhere All at Once.jpg", name: "Everything Everywhere All at Once"},
         {file: "movie_color_barcode_Ex Machina.jpg", name: "Ex Machina"},
         {file: "movie_color_barcode_Fantastic Beasts and Where to Find Them.jpg", name: "Fantastic Beasts and Where to Find Them"},
-        {file: "movie_color_barcode_Fantastic Beasts The Crimes Of Grindelwald.jpg", name: "Fantastic Beasts The Crimes Of Grindelwald"},
-        {file: "movie_color_barcode_Fantastic Beasts The Secrets of Dumbledore.jpg", name: "Fantastic Beasts The Secrets of Dumbledore"},
+        {file: "movie_color_barcode_Fantastic Beasts The Crimes Of Grindelwald.jpg", name: "Fantastic Beasts: The Crimes Of Grindelwald"},
+        {file: "movie_color_barcode_Fantastic Beasts The Secrets of Dumbledore.jpg", name: "Fantastic Beasts: The Secrets of Dumbledore"},
         {file: "movie_color_barcode_Fight Club.jpg", name: "Fight Club"},
         {file: "movie_color_barcode_Finding Dory.jpg", name: "Finding Dory"},
         {file: "movie_color_barcode_Finding Nemo.jpg", name: "Finding Nemo"},
         {file: "movie_color_barcode_First Man IMAX.jpg", name: "First Man IMAX"},
         {file: "movie_color_barcode_Following.jpg", name: "Following"},
         {file: "movie_color_barcode_Ford V Ferrari.jpg", name: "Ford V Ferrari"},
-        {file: "movie_color_barcode_Furiosa A Mad Max Saga.jpg", name: "Furiosa A Mad Max Saga"},
+        {file: "movie_color_barcode_Furiosa A Mad Max Saga.jpg", name: "Furiosa: A Mad Max Saga"},
         {file: "movie_color_barcode_Gladiator EXTENDED REMASTERED.jpg", name: "Gladiator"},
-        {file: "movie_color_barcode_Good Will Hunting 1080p.jpg", name: "Good Will Hunting 1080p"},
+        {file: "movie_color_barcode_Good Will Hunting 1080p.jpg", name: "Good Will Hunting"},
         {file: "movie_color_barcode_Good Will Hunting.jpg", name: "Good Will Hunting"},
-        {file: "movie_color_barcode_GOUTAM NANDA.jpg", name: "GOUTAM NANDA"},
         {file: "movie_color_barcode_Gravity.jpg", name: "Gravity"},
         {file: "movie_color_barcode_Groundhog Day.jpg", name: "Groundhog Day"},
         {file: "movie_color_barcode_Guardians Of The Galaxy Vol. 2.jpg", name: "Guardians Of The Galaxy Vol. 2"},
@@ -148,11 +147,11 @@ function loadImages(difficulty) {
         {file: "movie_color_barcode_John Wick Chapter 4.jpg", name: "John Wick Chapter 4"},
         {file: "movie_color_barcode_Joker.jpg", name: "Joker"},
         {file: "movie_color_barcode_Justice League Dark Apokolips War.jpg", name: "Justice League Dark Apokolips War"},
-        {file: "movie_color_barcode_Justice League Snyders Cut.jpg", name: "Justice League Snyders Cut"},
+        {file: "movie_color_barcode_Justice League Snyders Cut.jpg", name: "Zack Snyder's Justice League"},
         {file: "movie_color_barcode_Justice League The Flashpoint Paradox.jpg", name: "Justice League The Flashpoint Paradox"},
         {file: "movie_color_barcode_Koyaanisqatsi.jpg", name: "Koyaanisqatsi"},
-        {file: "movie_color_barcode_Kung Fu Panda (2008).jpg", name: "Kung Fu Panda (2008)"},
-        {file: "movie_color_barcode_Kung Fu Panda 2 (2011).jpg", name: "Kung Fu Panda 2 (2011)"},
+        {file: "movie_color_barcode_Kung Fu Panda (2008).jpg", name: "Kung Fu Panda"},
+        {file: "movie_color_barcode_Kung Fu Panda 2 (2011).jpg", name: "Kung Fu Panda 2"},
         {file: "movie_color_barcode_Kung Fu Panda 2.jpg", name: "Kung Fu Panda 2"},
         {file: "movie_color_barcode_Kung Fu Panda.jpg", name: "Kung Fu Panda"},
         {file: "movie_color_barcode_Life Of Pi 3D.jpg", name: "Life Of Pi"},
@@ -164,7 +163,7 @@ function loadImages(difficulty) {
         {file: "movie_color_barcode_Manjummel Boys Malayalam.jpg", name: "Manjummel Boys"},
         {file: "movie_color_barcode_Manjummel Boys Telugu.jpg", name: "Manjummel Boys"},
         {file: "movie_color_barcode_Mathu Vadalara 2.jpg", name: "Mathu Vadalara 2"},
-        {file: "movie_color_barcode_MATHU VADALARA.jpg", name: "MATHU VADALARA"},
+        {file: "movie_color_barcode_MATHU VADALARA.jpg", name: "Mathu Vadalara"},
         {file: "movie_color_barcode_Maze Runner The Death Cure.jpg", name: "Maze Runner The Death Cure"},
         {file: "movie_color_barcode_Maze Runner The Scorch Trials.jpg", name: "Maze Runner The Scorch Trials"},
         {file: "movie_color_barcode_Megamind.jpg", name: "Megamind"},
@@ -296,7 +295,15 @@ function getRandomOptions(correctAnswer) {
         options.add(randomOption);
     }
 
-    return Array.from(options);
+    const optionsArray = Array.from(options);
+
+    // Shuffle the options
+    for (let i = optionsArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [optionsArray[i], optionsArray[j]] = [optionsArray[j], optionsArray[i]];
+    }
+
+    return optionsArray;
 }
 
 // Check if the selected answer is correct
